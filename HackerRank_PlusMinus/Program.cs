@@ -10,6 +10,7 @@ namespace HackerRank_PlusMinus
     {
         static void Main(string[] args)
         {
+            Result.PlusMinus(new List<int>(){-1,-1,0,1,1});
         }
     }
 }

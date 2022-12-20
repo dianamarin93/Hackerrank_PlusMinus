@@ -1,0 +1,7 @@
+C:\Users\Diana\Desktop\c# incepatori\HackerRank_PlusMinus\HackerRank_PlusMinus\bin\Debug\HackerRank_PlusMinus.exe.config
+C:\Users\Diana\Desktop\c# incepatori\HackerRank_PlusMinus\HackerRank_PlusMinus\bin\Debug\HackerRank_PlusMinus.exe
+C:\Users\Diana\Desktop\c# incepatori\HackerRank_PlusMinus\HackerRank_PlusMinus\bin\Debug\HackerRank_PlusMinus.pdb
+C:\Users\Diana\Desktop\c# incepatori\HackerRank_PlusMinus\HackerRank_PlusMinus\obj\Debug\HackerRank_PlusMinus.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\c# incepatori\HackerRank_PlusMinus\HackerRank_PlusMinus\obj\Debug\HackerRank_PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\c# incepatori\HackerRank_PlusMinus\HackerRank_PlusMinus\obj\Debug\HackerRank_PlusMinus.exe
+C:\Users\Diana\Desktop\c# incepatori\HackerRank_PlusMinus\HackerRank_PlusMinus\obj\Debug\HackerRank_PlusMinus.pdb
